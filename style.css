@@ -70,7 +70,6 @@ body {
   );
   border-radius: 50px;
   position: relative;
-  /* transform: translateX(0px); */
   cursor: pointer;
 }
 
@@ -171,6 +170,7 @@ body {
   font-family: inherit;
   color: #fff;
   cursor: pointer;
+  outline: none;
 }
 
 .btn:hover {
